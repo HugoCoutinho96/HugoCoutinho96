@@ -25,7 +25,7 @@ jobs:
           github_user_name: HugoCoutinho96
           outputs: |
             ./github-contribution-grid-snake.svg
-            ./github-contribution-grid-snake-dark.svg?palette=github-dark
+            ./github-contribution-grid-snake-dark.svg?palette=dracula
 
       - name: Commit and push generated files
         run: |

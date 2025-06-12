@@ -13,6 +13,11 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
+        with:
+          persist-credentials: false
+
+      - name: Debug secret PAT length
+        run: echo "PAT secret length is ${{ secrets.PAT && secrets.PAT.length }}"
 
       - name: Generate Snake Animation
         uses: Platane/snk@v3
@@ -27,5 +32,5 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add .
-          git commit -m "Generate GitHub contribution snake"
+          git commit -m "Generate GitHub contribution snake" || echo "No changes to commit"
           git push https://x-access-token:${{ secrets.PAT }}@github.com/HugoCoutinho96/HugoCoutinho96.git

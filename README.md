@@ -1,7 +1,7 @@
 ## Oi, eu sou o Hugo Coutinho. 👨‍💻
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HugoCoutinho96&show_icons=true&theme=dark)(https://github.com/HugoCoutinho96/github-readme-stats)"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HugoCoutinho96&layout=compact&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HugoCoutinho96&show_icons=true&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HugoCoutinho96&layout=compact&theme=dracula"/>
 </div>
 <div style="display: inline-block"><br>
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg">

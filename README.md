@@ -20,4 +20,4 @@
   <a href="https://www.linkedin.com/in/hugocoutinho96" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
 </div>
 
-![GitHub Snake animation](https://raw.githubusercontent.com/HugoCoutinho96/HugoCoutinho96/main/github-contribution-grid-snake.svg)
+![GitHub Snake animation](https://raw.githubusercontent.com/HugoCoutinho96/HugoCoutinho96/main/github-contribution-grid-snake-dark.svg)

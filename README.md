@@ -16,8 +16,8 @@
 ##
 
 <div> 
-  <a href = "mailto:hugocoutinho96@outlook.com"><img src="https://img.shields.io/badge/-Outlook-%232D2D2D?style=for-the-badge&logo=microsoftoutlook&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/hugocoutinho96" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="mailto:hugocoutinho96@outlook.com" target="_blank"><img src="https://img.shields.io/badge/Outlook-2c2c2c?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/hugocoutinho96" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
 </div>
 
 ![GitHub Snake animation](https://raw.githubusercontent.com/HugoCoutinho96/HugoCoutinho96/main/github-contribution-grid-snake.svg)
